@@ -1,0 +1,8 @@
+<!-- Placeholder for wide screenshot -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#f8fafc"/>
+  <rect x="0" y="0" width="1280" height="80" fill="#3b82f6"/>
+  <text x="640" y="50" font-family="Arial, sans-serif" font-size="32" fill="#ffffff" text-anchor="middle" font-weight="bold">Authentication Demo PWA</text>
+  <rect x="100" y="150" width="1080" height="400" fill="#ffffff" stroke="#e5e7eb" stroke-width="2" rx="8"/>
+  <text x="640" y="380" font-family="Arial, sans-serif" font-size="48" fill="#374151" text-anchor="middle">📱 PWA Ready for Installation</text>
+</svg>
